@@ -7,3 +7,11 @@
   height: 250px;
   object-fit: cover;
 }
+.form {
+  margin-top: 150px;
+  width: 70%; 
+  margin: 0 auto;
+}
+.form h3 {
+  margin-bottom: 30px;
+}
